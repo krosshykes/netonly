@@ -1,4 +1,4 @@
-package netonly
+package runas
 
 import (
 	"os"
