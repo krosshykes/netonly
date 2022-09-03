@@ -33,7 +33,7 @@ func main() {
 		default:
 			fmt.Println("Invalid Argument")
 		}
-	} else if lenA < 5 {
+	} else if lenA < 5 || lenA > 6 {
 		fmt.Println("Invalid number of Arguments")
 	} else {
 		user = os.Args[1]

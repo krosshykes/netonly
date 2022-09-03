@@ -1,6 +1,6 @@
 # RUNAS /netonly
 
-### This is implementation of Windows application `runas` in Go Programming Language.
+### This program is implementation of Windows application `runas` in Go Programming Language.
 
 ### Usage:
 ```go
